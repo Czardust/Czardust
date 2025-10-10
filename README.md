@@ -6,7 +6,7 @@ Maschine learning engineer
 
 
 *   🌍  I'm based in Nizhniy Novgorod
-*   ✉️  You can contact me at tg:@czardust [Andrey.Danilin.work@yandex.ru](mailto:Andrey.Danilin.work@yandex.ru)
+*   ✉️  You can contact me at tg:@czardust or [Andrey.Danilin.work@yandex.ru](mailto:Andrey.Danilin.work@yandex.ru)
 *   🧠  In current moment i learning c++ and big data tools
   ### Skills 
 <p align="left">
