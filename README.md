@@ -4,17 +4,13 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreyDanilin&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
+
 
 <br>
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndreyDanilin&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+
 
 - 🔬 **Machine Learning Engineer** passionate about AI and data science
 - 🌍 **Based in** Nizhniy Novgorod, Russia
@@ -80,15 +76,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyDanilin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreyDanilin&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 ## 🎯 Current Focus
 
@@ -99,11 +87,7 @@
 - 🏗️ **MLOps Integration** - MLflow, Airflow, and LlamaIndex for ML lifecycle management
 - 🧠 **Neural Network Architecture** - Custom PyTorch model development
 
-## 📈 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyDanilin&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
-</div>
 
 ## 📬 Connect With Me
 
@@ -114,16 +98,9 @@
   <a href="mailto:Andrey.Danilin.work@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/AndreyDanilin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreyDanilin&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
