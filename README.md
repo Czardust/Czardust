@@ -1,17 +1,7 @@
-<<<<<<< HEAD
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Andrey+Danilin;Machine+Learning+Engineer;Welcome+to+my+GitHub+Profile+%E2%9C%A8" alt="Typing SVG" />
 </div>
-=======
-Hi, My name is Andrey Danilin
-======================================================================================================================================
->>>>>>> ba6c78266ec20853b9a0802d2f6d56e53b2076f5
-
-<br>
-
-
-
-<br>
 
 ## 🚀 About Me
 
