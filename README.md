@@ -84,7 +84,6 @@ Agentic research copilot that combines multi-step reasoning with retrieval-augme
 
 ## 📌 Quick profile
 
-- 🌍 Based in Nizhniy Novgorod, Russia.
 - 🔍 Interested in Machine Learning Engineer, Data Scientist, and Applied NLP/RAG roles.
 - 🤝 Open to collaboration, internships, junior/middle opportunities, and project-based work.
 - 📫 Best way to reach me: [email](mailto:Andrey.Danilin.work@yandex.ru) or [Telegram](https://t.me/Czardust).
